@@ -2491,3 +2491,7 @@
 #tweets {
 	display: inline-block;
 }
+
+#poptext {
+	text-align: left;
+}
